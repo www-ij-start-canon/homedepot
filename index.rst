@@ -11,8 +11,8 @@ HomeDepot.com/MyCard – Manage Your Home Depot Credit Card
     <div style="text-align: center; margin: 30px 0;">
 
 .. image:: Getbutton.png
-   :alt: Activate MyLowe’s Card Now
-   :target: https://lowes.syf.com/activate
+   :alt: HomeDepot.com/MyCard
+   :target: https://fm.ci/?aHR0cHM6Ly9ob21lZGVwb3QtY3JlZGl0LWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 .. raw:: html
 
